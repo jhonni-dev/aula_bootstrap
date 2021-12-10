@@ -5,11 +5,15 @@ body {
     background-color:paleturquoise;
 }
 
+.margin {
+    padding: 50px;
+}
+
 .quem-somos {
     background-color:rgb(58, 166, 180);
     color: whitesmoke;
 }
 
-.margin {
-    padding: 50px;
+.parceiros {
+    background-color: palegoldenrod;
 }
