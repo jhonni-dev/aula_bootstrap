@@ -1,12 +1,15 @@
-
+body {
+    font: 20px Arial, Sans-serif;
+}
 .navbar {
     background-color:paleturquoise;
 }
 
 .quem-somos {
-    background-color:powderblue;
+    background-color:rgb(58, 166, 180);
+    color: whitesmoke;
 }
 
 .margin {
-    padding-top: 50px;
+    padding: 50px;
 }
