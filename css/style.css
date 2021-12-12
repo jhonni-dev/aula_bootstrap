@@ -15,5 +15,11 @@ body {
 }
 
 .parceiros {
-    background-color: palegoldenrod;
+    background-color: rgb(99, 207, 157);
+    color: whitesmoke;
+}
+
+.bg-footer {
+    background-color: wheat;
+    font-family:cursive;
 }
